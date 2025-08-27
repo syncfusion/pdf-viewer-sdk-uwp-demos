@@ -549,22 +549,22 @@
       <Version>6.0.15</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfAccordion.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfBusyIndicator.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfInput.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfNavigationDrawer.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfTabControl.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfTreeNavigator.UWP">
-      <Version>30.2.7</Version>
+      <Version>*</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
