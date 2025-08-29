@@ -26,11 +26,31 @@ Syncfusion has no liability for any damage or consequence that may arise by the 
 
 The easiest way to use these samples without using Git is to download the zip file containing the current version (using the following link or by clicking the "Download ZIP" button on the repo page). You can then unzip the entire archive and use the samples.
 
-   [Download the samples ZIP](../../archive/master.zip)
+[Download the samples ZIP](../../archive/master.zip)
 
-   **Notes:** 
-   * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
-   * Be sure to unzip the entire archive, and not just individual samples. The samples all depend on the SharedContent folder in the archive.  
+**Notes:** 
+* Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
+* Be sure to unzip the entire archive, and not just individual samples. The samples all depend on the SharedContent folder in the archive.
+
+### Installation Requirements:
+
+1. Install required Syncfusion NuGet packages (automatically restored when building the project)
+
+   a. For **Syncfusion.SampleBrowser.UWP.Common** project
+   - Syncfusion.SfAccordion.UWP
+   - Syncfusion.SfBusyIndicator.UWP
+   - Syncfusion.SfInput.UWP
+   - Syncfusion.SfNavigationDrawer.UWP
+   - Syncfusion.SfTabControl.UWP
+   - Syncfusion.SfTreeNavigator.UWP
+
+   b. For **Syncfusion.SampleBrowser.UWP.PdfViewer** project
+   - Syncfusion.SfAccordion.UWP
+   - Syncfusion.SfBusyIndicator.UWP
+   - Syncfusion.SfMenu.UWP
+   - Syncfusion.SfPdfViewer.UWP
+
+2. Set the solution's target CPU architecture to **x64**.
 
 **To use the Syncfusion UWP samples, Syncfusion license key should be registered in SyncfusionLicense.txt file. Refer [this](https://www.syncfusion.com/kb/9002?utm_source=github&utm_medium=listing) link for more information.**
 
