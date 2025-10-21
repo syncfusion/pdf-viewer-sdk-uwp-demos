@@ -1,2 +1,0 @@
-Syncfusion.SfPdfViewer.UWP
-Syncfusion.SampleBrowser.UWP.PdfViewer
