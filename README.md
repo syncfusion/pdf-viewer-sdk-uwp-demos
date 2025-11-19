@@ -1,4 +1,4 @@
-# Syncfusion® UWP PDF Viewer samples 
+# Syncfusion® UWP PDF Viewer samples  
 
 This repository contains the demos of [Syncfusion UWP PDF Viewer control](https://www.syncfusion.com/products/uwp?utm_source=github&utm_medium=listing). This is the best place to check our PDF Viewer control to get more insight about the usage of APIs. 
 
